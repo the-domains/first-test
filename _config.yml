@@ -1,0 +1,28 @@
+name: first-test
+favicon: null
+layout_spectrum: 0.7165273169521242
+typography_spectrum: 0.14979740837588906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.010585386073216796
+  lightness: 0.6965867970138788
+  saturation: 0.32191013917326927
+  rhythmicContrast: 0.03807207476347685
+purpose: []
