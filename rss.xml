@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[first-test]]></title>
-        <description><![CDATA[first-test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Accounting Practice Growth]]></title>
+        <description><![CDATA[Accounting Practice Growth]]></description>
+        <link>https://thegrid.ai/first-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 05:28:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Aug 2016 07:06:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/first-test/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The easiest way to create websites</p>]]></description>
-            <link>undefinedthe-easiest-way-to-create-websites/index.html</link>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b333982e-c95d-4474-ab93-0e6238994ed6.jpg">]]></description>
+            <link>https://thegrid.ai/first-test/the-easiest-way-to-create-websites/index.html</link>
             <guid isPermaLink="false">396dac6c-1510-475a-9c0b-224f457a70e1</guid>
-            <pubDate>Mon, 02 May 2016 05:28:33 GMT</pubDate>
+            <pubDate>Sat, 20 Aug 2016 07:06:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
